@@ -2,13 +2,13 @@
 
 A luxury digital couples game called 'מה שבינינו' (What's Between Us), sold as an interactive PDF for 79 NIS. The product is designed to help couples reconnect, laugh, and deepen their emotional bond through three progressive card categories: light & fun, deep & emotional, and bold & daring. The brand aesthetic is romantic, premium, and minimalist — inspired by Apple's design language — featuring cream, powder pink, burgundy, and gold tones with soft shadows and rounded corners. The product includes 60+ questions, dozens of missions, twist cards, and interactive navigation, and is suitable for both new and long-term couples.
 
-Source: https://-abadcdf7.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו מחדש את האהבה — מה שבינינו
 
-URL: https://-abadcdf7.zappy5.app
+URL: https://example.com
 Description: משחק זוגות להדפסה בעיצוב יוקרתי עם 60+ שאלות לזוגות להעמקת הקשר, משימות וקלפי טוויסט. הופכים כל ערב זוגי בבית לחוויה אינטימית ומרגשת. הורידו עכשיו ב-79 ₪!
 
 גלו מחדש את האהבה — מה שבינינו
@@ -708,7 +708,7 @@ Description: משחק זוגות להדפסה בעיצוב יוקרתי עם 60+
 
 ## מדיניות פרטיות
 
-URL: https://-abadcdf7.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -985,7 +985,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-abadcdf7.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1271,7 +1271,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-abadcdf7.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
