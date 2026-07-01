@@ -1,0 +1,55 @@
+# מה שבינינו — Generative Engine Optimization Map
+
+> A luxury digital couples game called 'מה שבינינו' (What's Between Us), sold as an interactive PDF for 79 NIS. The product is designed to help couples reconnect, laugh, and deepen their emotional bond through three progressive card categories: light & fun, deep & emotional, and bold & daring. The brand aesthetic is romantic, premium, and minimalist — inspired by Apple's design language — featuring cream, powder pink, burgundy, and gold tones with soft shadows and rounded corners. The product includes 60+ questions, dozens of missions, twist cards, and interactive navigation, and is suitable for both new and long-term couples.
+
+---
+
+## Pages
+
+### בית
+https://-abadcdf7.zappy5.app
+משחק זוגות להדפסה בעיצוב יוקרתי עם 60+ שאלות לזוגות להעמקת הקשר, משימות וקלפי טוויסט. הופכים כל ערב זוגי בבית לחוויה אינטימית ומרגשת. הורידו עכשיו ב-79 ₪!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-abadcdf7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-abadcdf7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-abadcdf7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מה שבינינו
+A luxury digital couples game called 'מה שבינינו' (What's Between Us), sold as an interactive PDF for 79 NIS. The product is designed to help couples reconnect, laugh, and deepen their emotional bond through three progressive card categories: light & fun, deep & emotional, and bold & daring. The brand aesthetic is romantic, premium, and minimalist — inspired by Apple's design language — featuring cream, powder pink, burgundy, and gold tones with soft shadows and rounded corners. The product includes 60+ questions, dozens of missions, twist cards, and interactive navigation, and is suitable for both new and long-term couples.
+
+## Target Audience
+- זוגות בגילאי 20–45, בזוגיות חדשה או ארוכת שנים, שמחפשים להתחבר מחדש, לצחוק ולהעמיק את הקשר
+- זוגות בזוגיות חדשה
+- זוגות בזוגיות ארוכת שנים
+- זוגות טכנולוגיים
+
+## Industry
+Digital Entertainment / Couples Games
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-abadcdf7.zappy5.app/sitemap.xml
+- Robots: https://-abadcdf7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-abadcdf7.zappy5.app/llms-full.txt
